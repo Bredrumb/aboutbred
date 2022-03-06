@@ -1,5 +1,7 @@
-# hello-world
+# Hello it't yo boi!
 Github test 1
 
-Hallo it's Bredrumb, check out mah channel:
+Check out mah channel:
 https://www.youtube.com/c/Bredrumb/videos
+
+## Joe Mama
